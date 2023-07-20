@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://alphaokxyz.github.io/sitemap.xml

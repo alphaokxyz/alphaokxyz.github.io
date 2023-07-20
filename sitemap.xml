@@ -1,0 +1,44 @@
+<?xml-stylesheet type="text/xsl" href="https://alphaokxyz.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://alphaokxyz.github.io/about/</loc>
+    <lastmod>2023-02-18T23:31:43+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://alphaokxyz.github.io/</loc>
+    <lastmod>2023-07-20T16:09:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://alphaokxyz.github.io/post/</loc>
+    <lastmod>2023-07-20T16:09:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://alphaokxyz.github.io/post/github-pages-hugo-set-up/</loc>
+    <lastmod>2023-07-20T16:09:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://alphaokxyz.github.io/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://alphaokxyz.github.io/tags/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>
